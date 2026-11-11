@@ -3,7 +3,7 @@
 Studenti: Migele Bishka
 Grupi (nëse punohet në grup):
 Data: 2026-11-11
-GitHub-i im:
+GitHub-i im: https://github.com/Migelee/urbanbike-ai-migele
 Figma:
 
 ## Qëllimi
